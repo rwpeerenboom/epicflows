@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Food Order Results" max_length="40" name="x_snc_sko18_flow_food_order_results" type="collection">
+        <element display="true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

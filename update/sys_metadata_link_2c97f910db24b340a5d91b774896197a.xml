@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>71950388db6c7340a5d91b77489619f4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="task_outage">
+    <task_outage action="INSERT_OR_UPDATE">
+        <outage display_value="Epic Charting Outage">f825cf48db6c7340a5d91b7748961998</outage>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 01:41:59</sys_created_on>
+        <sys_id>71950388db6c7340a5d91b77489619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 01:41:59</sys_updated_on>
+        <task display_value="INC0000001">9c573169c611228700193229fff72400</task>
+    </task_outage>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 14:39:35</sys_created_on>
+        <sys_id>2c97f910db24b340a5d91b774896197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2019-03-27 18:41:59</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_metadata_link_2c97f910db24b340a5d91b774896197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 14:39:35</sys_updated_on>
+        <tablename>task_outage</tablename>
+    </sys_metadata_link>
+</record_update>

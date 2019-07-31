@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to coordinate activities and actions in the event of a priority 1 incident or outage for Epic systems.</description>
+        <internal_name>epic_incident_flow</internal_name>
+        <label_cache>[{"name":"Created_1.current.cmdb_ci.x_snc_sko18_flow_u_users","label":"Trigger➛Incident Record➛Configuration item➛Users","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"x_snc_sko18_flow_u_users"},{"name":"4c04f2f5-c665-499b-ab3a-d7a33bfb776b.email","label":"4.1➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference"},{"name":"Created_1.current.cmdb_ci.change_control","label":"Trigger➛Incident Record➛Configuration item➛Approval group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"change_control"},{"name":"6300fdba-f0e1-431d-9e92-3008af1f73cf.approval_state","label":"3➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"6de556fe-93ca-4787-b785-d6b76e84f3a0.table_name","label":"2➛Outages Tasks Link Table","reference":"task_outage","reference_display":"Outages Tasks Link","type":"table_name","base_type":"table_name"},{"name":"6de556fe-93ca-4787-b785-d6b76e84f3a0.record","label":"2➛Outages Tasks Link Record","reference":"task_outage","reference_display":"Outages Tasks Link","type":"reference","base_type":"reference"},{"name":"Created_1.current.sys_created_on","label":"Trigger➛Incident Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"incident","column_name":"sys_created_on"},{"name":"Created_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"Created_1.current.cmdb_ci","label":"Trigger➛Incident Record➛Configuration item","reference":"cmdb_ci","reference_display":"Configuration Item","type":"reference","base_type":"reference","parent_table_name":"incident","column_name":"cmdb_ci"},{"name":"1c135444-932d-4c08-86eb-9c833ee74482.table_name","label":"1➛Outage Table","reference":"cmdb_ci_outage","reference_display":"Outage","type":"table_name","base_type":"table_name"},{"name":"1c135444-932d-4c08-86eb-9c833ee74482.record","label":"1➛Outage Record","reference":"cmdb_ci_outage","reference_display":"Outage","type":"reference","base_type":"reference"},{"name":"63bcda46-7a94-42e6-a4ea-3fd34aa57df6.email","label":"2➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference"},{"name":"Created_1.current.cmdb_ci.support_group","label":"Trigger➛Incident Record➛Configuration item➛Support group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"support_group"},{"name":"cf372f87-ea0f-4dfb-b201-d5d0934ec6e8.Remote Incident Number","label":"6➛Remote Incident Number","reference_display":"Remote Incident Number","type":"string","base_type":"string"},{"name":"cf372f87-ea0f-4dfb-b201-d5d0934ec6e8.Correlation Id","label":"6➛Correlation Id","reference_display":"Correlation Id","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Epic Incident Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 01:08:09</sys_created_on>
+        <sys_id>9addf2c0db6c7340a5d91b7748961972</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Epic Incident Flow</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_hub_flow_9addf2c0db6c7340a5d91b7748961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 02:04:53</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=9addf2c0db6c7340a5d91b7748961972"/>
+    <sys_variable_value action="delete_multiple" query="document_key=9addf2c0db6c7340a5d91b7748961972"/>
+</record_update>

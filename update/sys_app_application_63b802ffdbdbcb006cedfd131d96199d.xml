@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Flow Design &amp; IntegrationHub Lab</name>
+        <order>-10</order>
+        <roles>x_snc_sko18_flow.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>michael.slabodnick</sys_created_by>
+        <sys_created_on>2018-01-03 17:12:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>63b802ffdbdbcb006cedfd131d96199d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Flow Designer &amp; IntegrationHub Lab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_app_application_63b802ffdbdbcb006cedfd131d96199d</sys_update_name>
+        <sys_updated_by>michael.slabodnick</sys_updated_by>
+        <sys_updated_on>2018-01-15 11:59:30</sys_updated_on>
+        <title>Flow Designer &amp; IntegrationHub Lab</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

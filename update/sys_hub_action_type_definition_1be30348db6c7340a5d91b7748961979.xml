@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from>8a720308db6c7340a5d91b77489619a6</copied_from>
+        <copied_from_name>Create Outage Record</copied_from_name>
+        <description>Action for creating an outage record from a task related record</description>
+        <internal_name>create_outage_record</internal_name>
+        <label_cache>[{"name":"{{action.task}}","label":"action➛task","type":"action","ref":"task"},{"name":"{{action.task.cmdb_ci}}","label":"action➛task➛Configuration item","type":"action","ref":"cmdb_ci"},{"name":"{{action.task.sys_created_on}}","label":"action➛task➛Created","type":"action","ref":""}]</label_cache>
+        <latest_snapshot>ed9603c8db6c7340a5d91b7748961996</latest_snapshot>
+        <master_snapshot>03048348db6c7340a5d91b7748961929</master_snapshot>
+        <name>Create Epic Outage Record</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 01:34:42</sys_created_on>
+        <sys_id>1be30348db6c7340a5d91b7748961979</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Create Epic Outage Record</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_1be30348db6c7340a5d91b7748961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 01:46:20</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=1be30348db6c7340a5d91b7748961979"/>
+    <sys_variable_value action="delete_multiple" query="document_key=1be30348db6c7340a5d91b7748961979"/>
+</record_update>

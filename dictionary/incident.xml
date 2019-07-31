@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="83" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Message" max_length="30000" name="x_snc_sko18_flow_u_email" type="string"/>
+    </element>
+</database>

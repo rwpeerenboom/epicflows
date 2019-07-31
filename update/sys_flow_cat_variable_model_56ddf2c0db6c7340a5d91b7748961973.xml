@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>9addf2c0db6c7340a5d91b7748961972</id>
+        <name>Epic Incident Flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-28 01:08:09</sys_created_on>
+        <sys_id>56ddf2c0db6c7340a5d91b7748961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Epic Incident Flow</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_56ddf2c0db6c7340a5d91b7748961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-28 01:08:09</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

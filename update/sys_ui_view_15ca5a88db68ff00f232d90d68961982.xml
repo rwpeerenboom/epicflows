@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,flow</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-27 22:34:54</sys_created_on>
+        <sys_id>15ca5a88db68ff00f232d90d68961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,flow</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_ui_view_15ca5a88db68ff00f232d90d68961982</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-27 22:34:54</sys_updated_on>
+        <title>Sys_popup,flow</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

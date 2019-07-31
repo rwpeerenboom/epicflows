@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Flow Designer &amp; IntegrationHub Lab">63b802ffdbdbcb006cedfd131d96199d</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="cmdb_ci_server">nameLIKEepic^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="LIKE" or="false" value="epic"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Epic Servers</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>cmdb_ci_server</name>
+        <order>60</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 23:11:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d059e2e0dbfcf340ff9c7709689619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Epic Servers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_app_module_d059e2e0dbfcf340ff9c7709689619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 23:11:48</sys_updated_on>
+        <timeline_page/>
+        <title>Epic Servers</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

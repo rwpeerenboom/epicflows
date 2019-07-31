@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Food Order Results" language="en" table="x_snc_sko18_flow_food_order_results">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Food Order Results</label>
+            <language>en</language>
+            <name>x_snc_sko18_flow_food_order_results</name>
+            <plural>Food Order Results</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-05 14:07:06</sys_created_on>
+            <sys_id>a2dcbebedb2c3f00ff9c770968961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Food Order Results</sys_name>
+            <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sko18_flow_food_order_results__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-05 14:07:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
